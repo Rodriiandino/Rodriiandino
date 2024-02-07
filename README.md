@@ -3,10 +3,9 @@
 ![1686668711494](https://github.com/Rodriiandino/Rodriiandino/assets/106351323/6785941b-ee78-4bef-bb6f-98cd01c28a02)
 
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me** 
 
-
-<br>
+<a href='https://portafolio-andino-rodrigo.vercel.app/' target="_blank"><img src = "https://img.shields.io/badge/Portfolio%20-%23000000.svg?style=for-the-badge&logoColor=white"></a>
 
 - **Education**: Bachelor's Degree Candidate in Computer Science <picture> <img src = "https://github.com/Rodriiandino/Rodriiandino/assets/106351323/c40035b1-9b49-47c9-b33c-71a77b7fb359" width = 25px></picture>
 
