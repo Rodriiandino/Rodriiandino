@@ -112,8 +112,8 @@
 <br>
 
 <li>
-<a href="mailto:andinorodrigo03@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  andinorodrigo03@-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<a href="mailto:andinorodrigo.job@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  andinorodrigo.job@-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
