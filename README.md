@@ -42,7 +42,7 @@
     ![Node.js](https://img.shields.io/badge/Node.js%20-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
     ![Java](https://img.shields.io/badge/Java%20-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
     ![Spring Boot](https://img.shields.io/badge/Spring%20Boot%20-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-
+  ![Docker](https://shields.io/badge/Docker-3178C6?logo=Docker&logoColor=FFF&style=for-the-badge)
 
 - **Mobile Development**:
 
