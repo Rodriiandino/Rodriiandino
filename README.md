@@ -29,6 +29,7 @@
 - **Front-End Development**:
 
     ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=FFF)
     ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
     ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
     ![React](https://img.shields.io/badge/React%20-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
@@ -52,7 +53,8 @@
 
     ![SQL](https://img.shields.io/badge/SQL%20-%23CC2927.svg?style=for-the-badge)
     ![MySQL](https://img.shields.io/badge/MySQL%20-%234479A1.svg?style=for-the-badge)
-
+  ![POSTGRESQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
+	
 - **Version Control**:
 
     ![Git](https://img.shields.io/badge/Git%20-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -116,7 +118,12 @@
 <img src="https://img.shields.io/badge/gmail:  andinorodrigo.job@-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
-	
+
+<br>
+
+<li>
+ <a href='https://portafolio-andino-rodrigo.vercel.app/' target="_blank"><img src = "https://img.shields.io/badge/Portfolio%20-%23000000.svg?style=for-the-badge&logoColor=white"></a>
+</li>
 </ul>
 </div>
 
