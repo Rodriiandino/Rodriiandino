@@ -7,6 +7,8 @@
 
 <br>
 
+Specializing in web applications, with 1+ year of experience designing and developing full-stack solutions. Proficient in building RESTful APIs using Java and Spring Boot, and crafting dynamic, high-performance interfaces with React.js, Next.js, Astro, and TypeScript.
+
 - **Education**: Bachelor's Degree Candidate in Computer Science <picture> <img src = "https://github.com/Rodriiandino/Rodriiandino/assets/106351323/c40035b1-9b49-47c9-b33c-71a77b7fb359" width = 25px></picture>
 
 - **Web Development Aspirant:** I'm on a journey to become a full-stack web developer.
