@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://portafolio-andino-rodrigo.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?center=true&vCenter=true&font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=A6D1E6&width=560&lines=Tech+Lead+%40+NotChatbot;Software+Architecture;AI+Engineering+%26+RAG+Systems;Agents+%C2%B7+MCP+%C2%B7+Real-time;Licenciado+en+Inform%C3%A1tica" alt="Tech Lead · Software Architecture · AI Engineering & RAG Systems · Licenciado en Informática">
+    <img src="https://readme-typing-svg.demolab.com?center=true&vCenter=true&font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=A6D1E6&width=560&lines=Tech+Lead;Software+Architecture;AI+Engineering+%26+RAG+Systems;Agents+%C2%B7+MCP+%C2%B7+Real-time;Licenciado+en+Inform%C3%A1tica" alt="Tech Lead · Software Architecture · AI Engineering & RAG Systems · Licenciado en Informática">
   </a>
 </p>
 
@@ -23,19 +23,6 @@ I'm a **Tech Lead at [NotChatbot](https://www.notchatbot.com/)**, an AI-powered 
 - 🏗️ **Software architecture:** scalable, real-time systems.
 - 🧭 **Technical leadership:** code quality, production stability and AI-assisted workflows.
 - 💸 **Efficiency:** making AI faster and cheaper to run.
-
-## 🔁 How I build AI systems
-
-```mermaid
-flowchart LR
-    U(["💬 User<br/>WhatsApp · Instagram · Web"]) --> A{{"🤖 AI agent<br/>AI SDK"}}
-    A -- retrieve --> K[("📚 Knowledge base<br/>vector search")]
-    K -- context --> A
-    A -- tools --> M["🔌 MCP servers<br/>tool calls"]
-    M -- results --> A
-    A <-- memory --> D[("⚡ Convex<br/>real-time data")]
-    A --> R(["✅ Grounded answer"])
-```
 
 ## 🛠️ Tech stack
 
